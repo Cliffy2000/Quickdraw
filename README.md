@@ -1,4 +1,4 @@
-# quickdraw
+# Quickdraw
 
 The data is obtained from https://www.kaggle.com/c/quickdraw-doodle-recognition/data. 
 
